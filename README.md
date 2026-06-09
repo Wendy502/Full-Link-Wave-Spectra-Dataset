@@ -10,7 +10,7 @@ https://mp.weixin.qq.com/s/c1bjNOZjbNENVEAqFcAMSw
 # Sentinel1 Dataset
 
 Sentinel-1 real SAR data with paired buoy spectra and SAR image spectra (`.mat`).
-The directory also includes partial ERA5 spectra files and Sentinel-1 XML metadata files (partial subset — contact for the complete set).
+The directory also includes partial ERA5 spectra files and Sentinel-1 XML metadata files (partial subset).
 
 # Full_Link_Simulator_Wave_Spectra_Inversion
 
