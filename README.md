@@ -16,6 +16,10 @@ The directory also includes partial ERA5 spectra files and Sentinel-1 XML metada
 
 Training and prediction code for wave spectra inversion from SAR imagery.
 
+# significant_wave_height_retrieved
+
+Code for calibrating the retrieved significant wave height.
+
 # Contact
 
 For access to more complete dataset samples, please contact: wenxq5@mail2.sysu.edu.cn
